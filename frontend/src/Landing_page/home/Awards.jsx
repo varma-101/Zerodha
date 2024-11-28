@@ -1,7 +1,7 @@
 function Awards() {
     return ( 
-        <div className="container mt-5">
-            <div className="row">
+        <div className="container mt-2">
+            <div className="row p-5">
                 <div className="col p-5">
                     <img src="/media/largestBroker.svg" alt="" />
                 </div>

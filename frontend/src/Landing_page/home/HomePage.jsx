@@ -10,10 +10,10 @@ function HomePage() {
         <>
             <Navbar/>
             <HeroSection/>
-            <Awards/>
-            <Education/>
-            <Pricing/>
             <Stats/>
+            <Awards/>
+            <Pricing/>
+            <Education/>
         </>
      );
 }
